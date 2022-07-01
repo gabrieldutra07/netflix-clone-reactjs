@@ -21,7 +21,7 @@ export default ({item}) => {
                                     2099
                              </div>
                              <div className='featured--seasons'>
-                                 {item.number_of_seasons} temporada{item.number_of_seasons !== 1 ? 's' : ''}
+                                 {item.number_of_seasons} temporada{item.number_of_seasons !== 1 ? 's' : ''} 
                              </div>
                         </div>
                     </div>
